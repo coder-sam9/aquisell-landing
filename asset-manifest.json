@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aquisell-landing/static/css/main.51b372ad.css",
-    "main.js": "/aquisell-landing/static/js/main.faede426.js",
+    "main.css": "/aquisell-landing/static/css/main.6f0caecd.css",
+    "main.js": "/aquisell-landing/static/js/main.5a8ed506.js",
     "static/media/underContract.svg": "/aquisell-landing/static/media/underContract.c8f2da06fa6f23879b40589cd7550140.svg",
     "static/media/transitioning.png": "/aquisell-landing/static/media/transitioning.e1ef39707baf13f2061c.png",
     "static/media/businessName.png": "/aquisell-landing/static/media/businessName.57ccacc39eca7841e8fa.png",
@@ -23,11 +23,11 @@
     "static/media/leftBendDashed.svg": "/aquisell-landing/static/media/leftBendDashed.c0c699d9e5568c3a60279e008d5b1503.svg",
     "static/media/dashedLine.svg": "/aquisell-landing/static/media/dashedLine.29aab65443b6877ff137e824d106fdc5.svg",
     "static/media/verticalDashed.svg": "/aquisell-landing/static/media/verticalDashed.b615602820a531c4546b670454848e7f.svg",
-    "main.51b372ad.css.map": "/aquisell-landing/static/css/main.51b372ad.css.map",
-    "main.faede426.js.map": "/aquisell-landing/static/js/main.faede426.js.map"
+    "main.6f0caecd.css.map": "/aquisell-landing/static/css/main.6f0caecd.css.map",
+    "main.5a8ed506.js.map": "/aquisell-landing/static/js/main.5a8ed506.js.map"
   },
   "entrypoints": [
-    "static/css/main.51b372ad.css",
-    "static/js/main.faede426.js"
+    "static/css/main.6f0caecd.css",
+    "static/js/main.5a8ed506.js"
   ]
 }
