@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aquisell-landing/static/css/main.51b372ad.css",
+    "main.js": "/aquisell-landing/static/js/main.faede426.js",
+    "static/media/underContract.svg": "/aquisell-landing/static/media/underContract.c8f2da06fa6f23879b40589cd7550140.svg",
+    "static/media/transitioning.png": "/aquisell-landing/static/media/transitioning.e1ef39707baf13f2061c.png",
+    "static/media/businessName.png": "/aquisell-landing/static/media/businessName.57ccacc39eca7841e8fa.png",
+    "static/media/deligence.png": "/aquisell-landing/static/media/deligence.6b43535829d6d0e00c0e.png",
+    "static/media/ellipse.svg": "/aquisell-landing/static/media/ellipse.83c5bee2408bfdc18a6cb3285db42e9a.svg",
+    "static/media/valuation.png": "/aquisell-landing/static/media/valuation.616a0f2aa24cc106b635.png",
+    "static/media/arrowLogo.svg": "/aquisell-landing/static/media/arrowLogo.2618afd72cc2a4264060b4773d6f2614.svg",
+    "static/media/buyer1.png": "/aquisell-landing/static/media/buyer1.a75276f6f8f112febcb5.png",
+    "static/media/buyer2.png": "/aquisell-landing/static/media/buyer2.ec5f0c15d0fa26e84ba5.png",
+    "static/media/logoWhite.svg": "/aquisell-landing/static/media/logoWhite.9d11590ce90141bb59b474bbc1eed82c.svg",
+    "static/media/logo.svg": "/aquisell-landing/static/media/logo.7ddd101d341908d737b84c8a091b293c.svg",
+    "static/media/checkedTick.svg": "/aquisell-landing/static/media/checkedTick.301447a5db53a033545bbdd6e6e8e8ba.svg",
+    "index.html": "/aquisell-landing/index.html",
+    "static/media/addCircle.svg": "/aquisell-landing/static/media/addCircle.412aa685d03da4e2e2bf88bb67cdf056.svg",
+    "static/media/rightArrow.svg": "/aquisell-landing/static/media/rightArrow.56046872ef350b4674176a26e6e49ca5.svg",
+    "static/media/leftBendExtra.svg": "/aquisell-landing/static/media/leftBendExtra.19556984e64f19818b1e900151b53ff3.svg",
+    "static/media/bendedDashed.svg": "/aquisell-landing/static/media/bendedDashed.963245a7216d607905278e65cafc3cda.svg",
+    "static/media/dashedConnector.svg": "/aquisell-landing/static/media/dashedConnector.8d234d226848c578cc4a3d0202398dfc.svg",
+    "static/media/leftBendDashed.svg": "/aquisell-landing/static/media/leftBendDashed.c0c699d9e5568c3a60279e008d5b1503.svg",
+    "static/media/dashedLine.svg": "/aquisell-landing/static/media/dashedLine.29aab65443b6877ff137e824d106fdc5.svg",
+    "static/media/verticalDashed.svg": "/aquisell-landing/static/media/verticalDashed.b615602820a531c4546b670454848e7f.svg",
+    "main.51b372ad.css.map": "/aquisell-landing/static/css/main.51b372ad.css.map",
+    "main.faede426.js.map": "/aquisell-landing/static/js/main.faede426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b372ad.css",
+    "static/js/main.faede426.js"
+  ]
+}
