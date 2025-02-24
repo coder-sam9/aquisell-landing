@@ -61,7 +61,7 @@ const BusinessCard = ({
           </svg>
   
           {/* Logo Circle */}
-          <div className="absolute w-[62px] h-[62px] left-[368px] top-[75px] bg-[#32D3A5] rounded-full flex items-center justify-center">
+          <div className="absolute w-[62px] h-[62px] left-[368px] top-[75px] bg-[#5567FF] rounded-full flex items-center justify-center">
             <img className="w-[36px] h-[36px]" src={logoWhite} alt="AcquiSell Logo" />
           </div>
         </div>
