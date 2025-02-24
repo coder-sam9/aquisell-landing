@@ -8,9 +8,9 @@ import logoWhite from "../assets/icons/logoWhite.svg";
 import ellipse from "../assets/icons/ellipse.svg";
 import buyer1 from "../assets/images/buyer1.png";
 import buyer2 from "../assets/images/buyer2.png";
-import ProcessStep from './ProcessSection/ProcessStep';
-import ProcessStepFirst from './ProcessSection/ProcessStepFirst';
-import BuyerProfileCard from './ProcessSection/BuyerProfileCard';
+import ProcessStep from '../components/ProcessSection/ProcessStep';
+import ProcessStepFirst from '../components/ProcessSection/ProcessStepFirst';
+import BuyerProfileCard from '../components/ProcessSection/BuyerProfileCard';
 
 // Buyer Data
 const buyers = [

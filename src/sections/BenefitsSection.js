@@ -1,6 +1,6 @@
 import React from 'react'
 import checkedTick from '../assets/icons/checkedTick.svg'
-import BusinessCard from './BenefitsSection/BusinessCard';
+import BusinessCard from '../components/BenefitsSection/BusinessCard';
 
 
 const BenefitTextItem = ({ text }) => (

@@ -1,5 +1,5 @@
 import logo from '../assets/icons/logo.svg';
-import CustomButton from './UI/Button/CustomButton';
+import CustomButton from '../components/UI/Button/CustomButton';
 
 export default function Header() {
   return (

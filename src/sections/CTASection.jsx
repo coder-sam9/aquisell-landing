@@ -1,13 +1,8 @@
 // CTASection.jsx
-import BuyerList from './CTASection/BuyerList';
-import CTAButtons from './CTASection/CTAButtons';
-import CTACard from './CTASection/CTACard';
-import logo from '../assets/icons/logo.svg';
-import buyer1 from '../assets/images/buyer1.png';
-import buyer2 from '../assets/images/buyer2.png';
-import BuyerCard from './CTASection/BuyerCard';
-import CTAConnection from './CTASection/CTAConnection';
 import dashedConnector from '../assets/icons/dashedConnector.svg';
+import BuyerList from '../components/CTASection/BuyerList';
+import CTAButtons from '../components/CTASection/CTAButtons';
+import CTAConnection from '../components/CTASection/CTAConnection';
 
 export default function CTASection() {
   const buyers = [
